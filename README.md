@@ -1,2 +1,2 @@
 # Movies
-Projeto do Curso Start Dev - JavaScript 
+Projeto do Curso Start Dev - JavaScript, CSS e HTML
